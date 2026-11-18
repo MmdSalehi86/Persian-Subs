@@ -1,5 +1,4 @@
 <div dir="rtl">
-
 # زیرنویس فارسی: C Programming Full Course for free ⚙️
  
 ## ویدیو

@@ -1,4 +1,5 @@
-<div dir="rtl">
+<div dir="ltr">
+ 
 # زیرنویس فارسی: C Programming Full Course for free ⚙️
  
 ## ویدیو
